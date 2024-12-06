@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1730048337369
+Build-Jdk-Spec: 17
+Bundle-ManifestVersion: 2
+Bundle-Name: cl.ucn.felix.biblioteca.api
+Bundle-SymbolicName: cl.ucn.felix.biblioteca.api
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin 5.1.9
+Include-Resource: META-INF/maven/archetype.xml=src/main/resources/META-I
+ NF/maven/archetype.xml,archetype-resources/pom.xml=src/main/resources/a
+ rchetype-resources/pom.xml,archetype-resources/src/main/java/App.java=s
+ rc/main/resources/archetype-resources/src/main/java/App.java,archetype-
+ resources/src/test/java/AppTest.java=src/main/resources/archetype-resou
+ rces/src/test/java/AppTest.java
+Private-Package: api,archetype-resources,archetype-resources.src.main.ja
+ va,archetype-resources.src.test.java
+Tool: Bnd-6.3.1.202206071316
